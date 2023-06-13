@@ -1,16 +1,17 @@
-### Hi there 👋
+## ABOUT ME
 
-<!--
-**lstavares84/lstavares84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 📊 Project Management since 2010
+* ⚙️ Mechanical Engineer
+* 💻 Master of Science Student in Data Science and AI @ PUCPR
 
-Here are some ideas to get you started:
+## 💡 CURRENT WORKING ON
+* 🔜 Missing data imputation methods in time series
+* ⌛  Detection of anomalies in industrial processes using visual inspection
+* 🚧 Stock market analysis automation
+* 🚧 Artificial Intelligence applied in project and portfolio management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 LEARNING
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" width="40" height="40"/>
+
+## 🏗️ WORKS WITH
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original.svg" width="40" height="40"/><img src="https://www.cadac.com/globalassets/producten-2018/googleshopping/inventor-professional-2018-shop.png" width="40" height="40"/>
