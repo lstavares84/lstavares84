@@ -15,7 +15,5 @@
 
 
 ## 🏗️ WORKS WITH
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/debian/debian-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original.svg" width="40" height="40"/><img src="https://www.cadac.com/globalassets/producten-2018/googleshopping/inventor-professional-2018-shop.png" width="40" height="40"/><img src="https://nextcloud.com/wp-content/uploads/2022/11/logo_nextcloud_white.svg" width="56.87204" height="40"/>
-<div style="background-color: blue;">
-  <img src="https://nextcloud.com/wp-content/uploads/2022/11/logo_nextcloud_white.svg" alt="Nextcloud Logo" />
-</div>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/debian/debian-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original.svg" width="40" height="40"/><img src="https://www.cadac.com/globalassets/producten-2018/googleshopping/inventor-professional-2018-shop.png" width="40" height="40"/><img src="https://nextcloud.com/wp-content/uploads/2022/11/nextcloud-logo.svg" width="40" height="40"/>
+
