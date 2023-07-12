@@ -2,7 +2,7 @@
 
 * 📊 Project Management since 2010
 * ⚙️ Mechanical Engineer
-* 💻 Master of Science Student in Informatics (Data Science) @ [PUCPR](https://www.ppgia.pucpr.br/en/)
+* 💻 Master of Science Student in Computing / Informatics (Data Science) @ [PUCPR](https://www.ppgia.pucpr.br/en/)
 
 ## 💡 CURRENT WORKING ON
 * 🛠️ Missing data imputation methods in time series;
