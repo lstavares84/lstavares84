@@ -12,7 +12,7 @@
 
 ## 🧠 LEARNING
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Qubes_OS_Logo.svg/200px-Qubes_OS_Logo.svg.png" width="40" height="40"/>
-<img src="https://github.githubassets.com/images/modules/open_graph/github-logo.png" width="40" height="40"/>
+
 
 
 ## 🏗️ WORKS WITH
