@@ -2,11 +2,9 @@
 
 * 📊 Project Management since 2010
 * ⚙️ Mechanical Engineer
-* 💻 Master of Science Student in Informatics (Data Science) @ [PUCPR](https://www.ppgia.pucpr.br/en/)
+
 
 ## 💡 CURRENT WORKING ON
-* 🛠️ Missing data imputation methods in time series;
-* ⌛  Detection of anomalies in industrial processes using visual inspection and raspberry pi
 * 📝 Stock market analysis automation
 * 📝 Artificial Intelligence applied in project and portfolio management
 
