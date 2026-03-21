@@ -28,8 +28,13 @@
 
 ---
 
-## 🧠 LEARNING / APRENDENDO
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" width="40" height="40"/>
-
 ## 🏗️ WORKS WITH / TRABALHA COM
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/debian/debian-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/><img src="https://github.com/devico
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cursor/cursor-original.svg" width="40" height="40"/><img src="https://img.icons8.com/color/48/autodesk-inventor.png" width="40" height="40"/>
+
+## 🤖 AI TOOLS / FERRAMENTAS DE IA
+* Claude (Anthropic) | ChatGPT (OpenAI) | Gemini (Google) | Grok (xAI)
+* Cursor IDE (Vibe Coding)
+* Claude Desktop + MCP Servers
+
+## ☕ SUPPORT
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lstavares84)
